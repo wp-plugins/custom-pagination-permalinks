@@ -51,7 +51,7 @@ Yes. By default WordPress doesn't add the tag &lt;link rel="canonical"..&gt; in 
 == Changelog ==
 
 = 1.0 =
-Release Date: Apriv 8th, 2015
+Release Date: April 10th, 2015
 
 * First and tested released until WordPress 4.1.1
 * Tested code from WordPress 3.3.2 version.
