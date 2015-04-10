@@ -16,7 +16,7 @@ This plugin allows you to define a new URL suffix to replace the usual "[..]/pag
 
 To do this make sure that you have activated the pretty permalinks options of WordPress under menu Settings > Permalinks.
 
-About the previous URLs, this plugin does automatically redirects from old URLs to the defined new ones.
+About the previous URLs, this plugin does automatically redirects from old classic URLs to the defined new ones.
 
 Also there is another feature where you can indicate to search engines that the current page is part of a listing. This option adds the tags &lt;link&gt; with attributes rel="prev" and/or rel="next" into the head section.
 
@@ -42,7 +42,7 @@ For SEO purposes per example, defining another suffix for pagination URLs with o
 
 = This plugin changes the canonical URL? =
 
-Yes. By default WordPress doesn't add the tag &lt;link rel="canonical"..&gt; in posts listings, but some plugins do it. For the moment we only added support to All in one SEO Park plugin.
+Yes. By default WordPress doesn't add the tag &lt;link rel="canonical"..&gt; in posts listings, but some plugins do it. For the moment we only added support to All in One SEO Park plugin.
 
 == Screenshots ==
 
