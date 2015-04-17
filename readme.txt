@@ -2,7 +2,7 @@
 Contributors: blogestudio, pauiglesias
 Tags: pagination, paginated, paging, permalinks, custom, customization, seo, url, urls, custom url, custom urls
 Requires at least: 3.3.2
-Tested up to: 4.1.1
+Tested up to: 4.2
 Stable tag: 1.0
 License: GPLv2 or later
 
@@ -53,7 +53,7 @@ Yes. By default WordPress doesn't add the tag &lt;link rel="canonical"..&gt; in 
 = 1.0 =
 Release Date: April 10th, 2015
 
-* First and tested released until WordPress 4.1.1
+* First and tested released until WordPress 4.2
 * Tested code from WordPress 3.3.2 version.
 
 == Upgrade Notice ==
