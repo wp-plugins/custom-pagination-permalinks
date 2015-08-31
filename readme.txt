@@ -2,7 +2,7 @@
 Contributors: blogestudio, pauiglesias
 Tags: pagination, paginated, paging, permalinks, custom, customization, seo, url, urls, custom url, custom urls
 Requires at least: 3.3.2
-Tested up to: 4.2
+Tested up to: 4.3
 Stable tag: 1.0
 License: GPLv2 or later
 
